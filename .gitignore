@@ -1,0 +1,7 @@
+venv
+.DS_Store
+.sass-cache
+*.css.map
+_dev
+tmp
+scripts/sandbox.py
